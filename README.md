@@ -11,5 +11,3 @@ I'm a computer science student trying to learn as much as possible and seeing wh
 :seedling: **learning:** Git and GitHub, and going through all the [GitHub skills](https://skills.github.com/)  
 
 :tulip: :tulip: :tulip:
-
-Thanks for visiting! :wave:
