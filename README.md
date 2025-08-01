@@ -2,8 +2,6 @@
 
 I'm a computer science student trying to learn as much as possible and seeing where it takes me!
 
-:tulip: :tulip: :tulip:
-
 ### I'm currently...
 
 :ledger: **enrolled in:** nothing! It's summer break!
@@ -12,6 +10,6 @@ I'm a computer science student trying to learn as much as possible and seeing wh
 
 :seedling: **learning:** Git and GitHub, and going through all the [GitHub skills](https://skills.github.com/)  
 
-:sunflower: :sunflower: :sunflower:
+:tulip: :tulip: :tulip:
 
 Thanks for visiting! :wave:
