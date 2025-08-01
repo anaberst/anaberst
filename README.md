@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Anastasiya :blush:
 
-<!--
-**anaberst/anaberst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student trying to learn as much as possible and seeing where it takes me!
 
-Here are some ideas to get you started:
+:tulip: :tulip: :tulip:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently...
+
+:ledger: **enrolled in:** nothing! It's summer break!
+
+:telescope: **working on:** making repos for all final projects from the '24-'25 school year
+
+:seedling: **learning:** Git and GitHub, and going through all the [GitHub skills](https://skills.github.com/)  
+
+:sunflower: :sunflower: :sunflower:
+
+Thanks for visiting! :wave:
