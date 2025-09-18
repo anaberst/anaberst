@@ -4,9 +4,9 @@ I'm a computer science student trying to learn as much as possible and seeing wh
 
 ### I'm currently...
 
-:ledger: **enrolled in:** nothing! It's summer break!
+:ledger: **enrolled in:** Analysis of Algorithms, Software Engineering I
 
-:calling: **working on:** making repos for all final projects from the '24-'25 school year
+<!-- :calling: **working on:** writing automated e2e mobile app tests for my PT job! -->
 
 :seedling: **learning:** Git and GitHub, and going through all the [GitHub skills](https://skills.github.com/)  
 
