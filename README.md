@@ -8,6 +8,6 @@ I'm a computer science student trying to learn as much as possible and seeing wh
 
 <!-- :calling: **working on:** writing automated e2e mobile app tests for my PT job! -->
 
-:seedling: **learning:** Git and GitHub, and going through all the [GitHub skills](https://skills.github.com/)  
+<!-- :seedling: **learning:** Git and GitHub, and going through all the [GitHub skills](https://skills.github.com/) -->
 
 :tulip: :tulip: :tulip:
