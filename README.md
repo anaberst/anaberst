@@ -6,11 +6,9 @@ I'm a computer science student trying to learn as much as possible and seeing wh
 
 :ledger: **enrolled in:** Analysis of Algorithms, Software Engineering I
 
-:seedling: **learning:** how to make a desktop app with React/Electron
+:seedling: **learning:** front-end development with React
 
-:boom: **excited about:** automating everyday processes
-
-<!-- :calling: **working on:** writing automated e2e mobile app tests for my PT job! -->
+:calling: **working on:** a pomodoro timer
 
 
 :tulip: :tulip: :tulip:
